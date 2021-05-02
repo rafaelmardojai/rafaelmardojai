@@ -6,11 +6,11 @@ I work on nice native GNOME apps and also develop themes to integrate popular so
 
 #### Apps for GNOME:
 - [Blanket](https://github.com/rafaelmardojai/blanket)
-- [Dialect](https://github.com/gi-lom/dialect) *(co-maintainer)*
+- [Dialect](https://github.com/dialect-app/dialect) *(co-maintainer)*
 
 #### Utility apps for GNOME:
-- [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator)
 - [Share Preview](https://github.com/rafaelmardojai/share-preview)
+- [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator)
 
 #### GNOME integration themes:
 - [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
