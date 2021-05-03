@@ -10,7 +10,7 @@ I work on nice native GNOME apps and also develop themes to integrate popular so
 
 #### Utility apps for GNOME
 - [Share Preview](https://github.com/rafaelmardojai/share-preview)
-- [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator)
+- [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator)
 
 #### GNOME integration themes
 - [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
