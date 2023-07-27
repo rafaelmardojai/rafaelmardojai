@@ -7,13 +7,13 @@ I work on nice native GNOME apps and also develop themes to integrate popular so
 #### Apps for GNOME
 - [Blanket](https://github.com/rafaelmardojai/blanket)
 - [Dialect](https://github.com/dialect-app/dialect) *(co-maintainer)*
-
-#### Utility apps for GNOME
+- [Forge Sparks](https://github.com/rafaelmardojai/forge-sparks)
 - [Share Preview](https://github.com/rafaelmardojai/share-preview)
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/webfont-kit-generator)
+- [Diccionario de la Lengua](https://codeberg.org/rafaelmardojai/diccionario-lengua)
 
 #### GNOME integration themes
 - [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
-- [VSCode GNOME theme](https://github.com/rafaelmardojai/vscode-gnome-theme)
+- [Thunderbird GNOME theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme)
 
 If you want to support my work, you can donate me, [here you can find how](https://rafaelmardojai.com/donate/).
